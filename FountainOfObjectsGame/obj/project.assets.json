@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\armin\\Desktop\\My_Coding_Space\\CSharpPlayersGuide\\FountainOfObjectsGame\\FountainOfObjectsGame.csproj",
+      "projectUniqueName": "C:\\Users\\armin\\GitHub\\CSharpPlayersGuide\\FountainOfObjectsGame\\FountainOfObjectsGame.csproj",
       "projectName": "FountainOfObjectsGame",
-      "projectPath": "C:\\Users\\armin\\Desktop\\My_Coding_Space\\CSharpPlayersGuide\\FountainOfObjectsGame\\FountainOfObjectsGame.csproj",
+      "projectPath": "C:\\Users\\armin\\GitHub\\CSharpPlayersGuide\\FountainOfObjectsGame\\FountainOfObjectsGame.csproj",
       "packagesPath": "C:\\Users\\armin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\armin\\Desktop\\My_Coding_Space\\CSharpPlayersGuide\\FountainOfObjectsGame\\obj\\",
+      "outputPath": "C:\\Users\\armin\\GitHub\\CSharpPlayersGuide\\FountainOfObjectsGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\armin\\AppData\\Roaming\\NuGet\\NuGet.Config",
